@@ -1,0 +1,1 @@
+Here two certificate templates are used as for some participants the paper title length may be small or large based on that the certificate template will be used. For the smaller paper title the template with one line space left for paper title will be used and vice-versa.
